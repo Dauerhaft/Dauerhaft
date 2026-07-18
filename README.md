@@ -1,6 +1,6 @@
 # Welcome! My name is Ilya.
 
-A junior developer focused on workflow **automation**, Linux systems **administration**, and network infrastructure **security**.
+Junior DevOps & Backend Engineer focused on workflow **automation**, Linux systems **administration**, and network infrastructure **security**.
 
 ---
 
